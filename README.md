@@ -15,9 +15,3 @@
 1. 安装好node环境
 2. 在front目录下运行`npm install`安装所需要的包
 3. 在front目录下运行`npm run dev`，访问[localhost:9527](localhost:9527)
-
-
-
-
-
-获取源码 联系微信：xunmaw001
